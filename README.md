@@ -29,4 +29,4 @@
 
 - 🏨 Bnak Management System (Python)
 - 🤖 Email Detection ( spam or not spam )
-- 📊 IPL Data Analysis (Power bi and Excel)
+- 📊 churn_prediction_p19 (customer)
