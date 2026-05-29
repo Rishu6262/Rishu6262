@@ -27,6 +27,6 @@
 
   ## 🚀 Projects:
 
-- 🏨 Bnak Management System (Python)
+- 🏨 Bank Management System (Python)
 - 🤖 Email Detection ( spam or not spam )
 - 📊 churn_prediction_p19 (customer)
