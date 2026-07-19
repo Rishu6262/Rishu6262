@@ -5,20 +5,20 @@
 ```markdown
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-success)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange)
-![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Application-red?logo=streamlit)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-5CB85C?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-FF9800?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-8A2BE2?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-1E90FF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-32CD32?style=for-the-badge)
 
 </div>
 ```
