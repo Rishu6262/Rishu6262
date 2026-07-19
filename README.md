@@ -131,6 +131,8 @@ Passionate about building AI-powered applications, Machine Learning models, Data
 
 ### 🎵 AI Resume Analyzer
 
+###
+> More project Machine & Deep learning and GenAI project
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -150,17 +152,6 @@ Passionate about building AI-powered applications, Machine Learning models, Data
 
 📍 Bhopal, Madhya Pradesh, India 🇮🇳
 
-</td>
-
-<td width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu6262&layout=compact&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-> AI-powered resume screening system using NLP, Machine Learning, FastAPI, and Streamlit.
-
-###
-> More project Machine & Deep learning and GenAI project
 ---
 
 ## 📈 Career Goal
