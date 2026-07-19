@@ -1,3 +1,42 @@
+.github
+   └── workflows
+          snake.yml
+
+ name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Rishu6262
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rishu6262/Rishu6262/output/github-contribution-grid-snake-dark.svg">
+</p>
+          
 <h1 align="center">Hi 👋, I'm Rishu Gurjar</h1>
 
 <h3 align="center">
@@ -36,34 +75,132 @@ Passionate about building AI-powered applications, Machine Learning models, Data
 ```
 
 
-🎓 B.Tech Student | 💻 Python Developer | 🤖 AI & Deep Learning Enthusiast  
-📍 India  
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: Machine & Deep Learning Projects  
-- 🌱 I’m currently learning: Machine Learning and Data Anaylsis & AI  
-- 👯 I’m looking to collaborate on: Open Source Projects  
-- 💬 Ask me about: Python, AI, Projects  
-- ⚡ Fun fact: I love building real-world projects
+🎓 **B.Tech Computer Science Student** passionate about building intelligent applications using **Python**, **Machine Learning**, **Deep Learning**, and **Generative AI**.
 
-- ## 🛠️ Skills:
+💻 I enjoy developing real-world AI solutions, interactive Streamlit applications, and data-driven projects while continuously improving my problem-solving and software development skills.
 
-- Programming: Python, C++
-- AI/ML: Machine Learning, Deep Learning, Neural Networks
-- Tools: GitHub, VS Code, Jupyter Notebook ,Streamlit More tools used
+📍 **Location:** Bhopal, Madhya Pradesh, India
 
-- ## 🎓 Education:
+---
 
-- 🎓 B.Tech in Computer Science  
-  BGI College (2024 - 2028)
+## 🚀 What I'm Doing
 
-- 🏫 12th (Science)  
-  RVM School
+- 🔭 **Currently Working On:** End-to-End Machine Learning & Deep Learning Projects
+- 🌱 **Currently Learning:** Machine Learning, Deep Learning, Data Analysis, Generative AI & Computer Vision
+- 👯 **Looking to Collaborate On:** Open Source Projects and AI Applications
+- 💬 **Ask Me About:** Python, Machine Learning, Data Analysis, Streamlit, and AI Projects
+- ⚡ **Fun Fact:** I love turning real-world problems into AI-powered solutions.
 
-- 🏫 10th  
-  G.B.pant School
+---
 
-  ## 🚀 Projects:
+## 🛠️ Tech Stack & Skills
 
-- 🏨 Bank Management System (Python)
-- 🤖 Email Detection ( spam or not spam )
-- 📊 churn_prediction_p19 (customer)
+### 💻 Programming Languages
+- 🐍 Python
+
+### 🤖 Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Generative AI
+- Computer Vision
+- Data Analysis
+
+### 📚 Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- OpenCV
+- PyTorch
+- Streamlit
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+- Anaconda
+- Streamlit Cloud
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Technology (B.Tech)
+**Computer Science & Engineering**
+
+🏫 **BGI College** *(2024 – 2028)*
+
+---
+
+### 🏫 Higher Secondary (Class XII)
+**Science Stream**
+
+🏫 **RVM School**
+
+---
+
+### 🏫 Secondary School (Class X)
+
+🏫 **G.B. Pant School**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Bank Management System
+> Python-based banking application for account creation, transactions, and account management.
+
+### 📧 Email Spam Detection
+> Machine Learning model that classifies emails as **Spam** or **Not Spam** using NLP techniques.
+
+### 📊 Customer Churn Prediction
+> Predicts whether a customer is likely to leave a company using Machine Learning classification algorithms.
+
+### 🎓 Student Performance Prediction
+> Regression-based ML application that predicts student exam scores from academic and lifestyle factors.
+
+### 📱 Mobile Price Range Prediction
+> Predicts smartphone price categories based on hardware specifications using Machine Learning.
+
+### 🎵 AI Resume Analyzer
+
+
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+<tr>
+<td width="55%">
+
+🎓 <b>B.Tech Computer Science Student</b>
+
+💻 Passionate about Python, AI & Machine Learning
+
+🤖 Exploring Deep Learning & Generative AI
+
+📊 Love solving real-world problems using Data Analysis
+
+🌱 Learning every day and building practical projects
+
+📍 Bhopal, Madhya Pradesh, India 🇮🇳
+
+</td>
+
+<td width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu6262&layout=compact&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+> AI-powered resume screening system using NLP, Machine Learning, FastAPI, and Streamlit.
+
+###
+> More project Machine & Deep learning and GenAI project
+---
+
+## 📈 Career Goal
+
+🚀 To become a skilled **AI Engineer** and **Machine Learning Engineer**, building intelligent solutions that solve real-world problems and create meaningful impact through technology.
