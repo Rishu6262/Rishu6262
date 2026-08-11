@@ -236,3 +236,25 @@ Run the Streamlit application:
 
 ```bash
 streamlit run app.py
+
+---
+
+## 🌱 My Development Philosophy
+
+> **Learn → Build → Deploy → Improve → Repeat.**
+
+I believe the best way to learn technology is by **building real-world projects**, solving problems, understanding failures, and continuously improving the implementation.
+
+---
+
+## 👨‍💻 About Me
+
+### Rishu Gurjar
+
+🎓 **B.Tech Computer Science Engineering Student**
+
+💻 **Python Developer | Data Analyst | Machine Learning Enthusiast | Deep Learning Learner | Generative AI Enthusiast**
+
+I am passionate about **Python, Artificial Intelligence, Machine Learning, Deep Learning, Data Science, NLP, and Generative AI**. I enjoy transforming ideas into practical applications and continuously exploring new technologies.
+
+---
