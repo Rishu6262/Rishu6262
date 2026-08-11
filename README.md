@@ -167,3 +167,37 @@ I am continuously working toward becoming a strong:
 My primary focus is on developing practical skills by building **real-world, end-to-end projects** rather than only learning theoretical concepts.
 
 ---
+
+## 📚 Current Learning Areas
+
+I am continuously improving my knowledge in:
+
+- Advanced Python
+- Data Science
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- AI Application Development
+- Data Analytics
+- Model Deployment
+- API Development
+
+---
+
+## 🌐 Portfolio Application
+
+The portfolio is developed using **Streamlit**, providing an interactive and easy-to-navigate experience for exploring my technical work and professional journey.
+
+### ✨ Portfolio Features
+
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Project Showcase
+- 📊 Project Details
+- 🏆 Achievements
+- 📚 Learning Journey
+- 🔗 Coding Profiles
+- 📬 Contact Information
+
+---
