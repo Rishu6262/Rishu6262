@@ -201,3 +201,38 @@ The portfolio is developed using **Streamlit**, providing an interactive and eas
 - 📬 Contact Information
 
 ---
+
+## 📂 Project Structure
+
+```bash
+My_Portfolio/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+
+```
+## ▶️ Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Rishu6262/My_Portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd My_Portfolio
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
