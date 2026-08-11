@@ -258,3 +258,31 @@ I believe the best way to learn technology is by **building real-world projects*
 I am passionate about **Python, Artificial Intelligence, Machine Learning, Deep Learning, Data Science, NLP, and Generative AI**. I enjoy transforming ideas into practical applications and continuously exploring new technologies.
 
 ---
+## 📬 Connect With Me
+
+- 💻 **GitHub:** https://github.com/Rishu6262
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishu-gurjar-58072a333/
+- 📊 **Kaggle:** https://www.kaggle.com/rishugurjar
+
+---
+
+## ⭐ Support
+
+If you like my projects or find my work useful:
+
+⭐ **Star** the repository  
+🍴 **Fork** the project  
+📢 **Share** it with others  
+💡 **Give feedback or suggestions**
+
+Every bit of support motivates me to keep learning and building! 🚀
+
+---
+
+## 🚀 Final Note
+
+This portfolio represents my ongoing journey from **learning programming fundamentals to building practical AI and Data Science applications**.
+
+I am continuously learning, experimenting, and building projects to strengthen my technical skills and prepare myself for opportunities in **AI, Machine Learning, Data Science, and Software Development**.
+
+### 💡 *Code. Learn. Build. Deploy. Repeat.* 🚀
