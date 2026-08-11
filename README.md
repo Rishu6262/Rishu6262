@@ -154,6 +154,16 @@ Passionate about building AI-powered applications, Machine Learning models, Data
 
 ---
 
-## 📈 Career Goal
+## 🎯 My Career Focus
 
-🚀 To become a skilled **AI Engineer** and **Machine Learning Engineer**, building intelligent solutions that solve real-world problems and create meaningful impact through technology.
+I am continuously working toward becoming a strong:
+
+- 🤖 **AI Engineer**
+- 🧠 **Machine Learning Engineer**
+- 📊 **Data Scientist**
+- 🐍 **Python Developer**
+- 🧠 **Deep Learning Engineer**
+
+My primary focus is on developing practical skills by building **real-world, end-to-end projects** rather than only learning theoretical concepts.
+
+---
